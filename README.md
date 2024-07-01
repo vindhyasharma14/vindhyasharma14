@@ -16,7 +16,7 @@ Welcome to my corner of creativity where Android apps come to life! With a palet
     <a href="https://stackoverflow.com/users/8643955/vindhya-sharma" target="_blank">
         <img src="https://camo.githubusercontent.com/3922cfa36bd92ee7138e308a8b478c51bdc58907dcf7cec72f9c4276927122b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="stackoverflow">
     </a>
-</div>
+</div><br>
 
 <a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
   <img src="https://camo.githubusercontent.com/17a83a0260862328b44a2b485b1ff2540efb03ecb3b4e6587eb7fdfbfe7fb01f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d617232312e737667" alt="and" style="width: 120px; height: 40px;">
