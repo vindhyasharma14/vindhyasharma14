@@ -2,7 +2,7 @@
 
 🚀 𝙷𝚒, 𝙸'𝚖 🅅🅸🅽🅳🅷🆈🅰. I am an enthusiast Software Engineer and currently working and learning Android.
 
-Welcome to my corner of creativity where Android apps come to life! With a palette of Java and Kotlin, I sculpt intuitive interfaces and seamless functionalities that captivate users. From elegant UI designs to robust backend integrations, every line of code is a brushstroke aimed at transforming ideas into dynamic mobile experiences. Let’s innovate together and push the boundaries of what’s possible in the Android universe!
+Welcome to my creative space where I bring Android apps to life! Using Java and Kotlin, I design user-friendly interfaces and smooth features that capture users' attention. Whether it's making beautiful designs or connecting powerful backend systems, each line of code I write turns ideas into exciting mobile experiences. Let's work together to explore new possibilities and push the limits of what Android can do!
 
 
 
