@@ -4,9 +4,8 @@
 
 ### Connect with Me:
 
-[![LinkedIn](https://www.picng.com/upload/linkedin/png_linkedin_64384.png)](https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/)
-
-
-
+<a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
+  <img src="https://www.picng.com/upload/linkedin/png_linkedin_64384.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+</a>
 
 
