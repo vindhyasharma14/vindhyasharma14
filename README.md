@@ -4,7 +4,7 @@
 
 ### Connect with Me:
 
-[![LinkedIn](https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png)](https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/)
+[![LinkedIn](https://www.picng.com/upload/linkedin/png_linkedin_64384.png)](https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/)
 
 
 
