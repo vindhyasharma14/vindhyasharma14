@@ -18,16 +18,10 @@ Welcome to my corner of creativity where Android apps come to life! With a palet
     </a>
 </div><br>
 
-<a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
-  <img src="https://camo.githubusercontent.com/17a83a0260862328b44a2b485b1ff2540efb03ecb3b4e6587eb7fdfbfe7fb01f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d617232312e737667" alt="and" style="width: 120px; height: 40px;">
-</a>
-
-<a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
-  <img src="https://camo.githubusercontent.com/06b4e5bff59158170c7de80649579da23a0fdf97fb477775f829f012cd05ef22/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d617232312e737667" alt="java" style="width: 120px; height: 40px;">
-</a>
-
-<a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
-  <img src="https://camo.githubusercontent.com/12f639a263745c8d1c42cd6a997d18d59449f22de7c53148c1ada2af1bcd5c5d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d617232312e737667" alt="kotlin" style="width: 120px; height: 40px;">
-</a>
 
 
+ <div class="image-container">
+        <img src="https://camo.githubusercontent.com/17a83a0260862328b44a2b485b1ff2540efb03ecb3b4e6587eb7fdfbfe7fb01f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d617232312e737667" alt="Image 1">
+        <img src="https://camo.githubusercontent.com/06b4e5bff59158170c7de80649579da23a0fdf97fb477775f829f012cd05ef22/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d617232312e737667" alt="Image 2">
+        <img src="https://camo.githubusercontent.com/12f639a263745c8d1c42cd6a997d18d59449f22de7c53148c1ada2af1bcd5c5d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d617232312e737667" alt="Image 3">
+    </div>
