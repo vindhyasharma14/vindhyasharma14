@@ -25,4 +25,8 @@ Welcome to my creative space where I bring Android apps to life! Using Java and 
     </div>
 
 ### Mastering Kotlin for Android Development: GitHub Projects
-#### (1)This interactive app provides practical examples for each operator and variable concept, allowing you to experiment and see immediate results.
+#### 1) Kotlin Starting
+This interactive app provides practical examples for each operator and variable concept.
+For more information, visit [SmartCalc-Kotlin GitHub Repository](https://github.com/vindhyasharma14/smartcalc-kotlin).
+
+       
