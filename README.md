@@ -2,7 +2,7 @@
 
 🚀 𝙷𝚒, 𝙸'𝚖 🅅🅸🅽🅳🅷🆈🅰. I am an enthusiast Software Engineer and currently working and learning Android.Having a successful apps on playstore with over than +1,000,000 downloads :)
 
-Welcome to my creative space where I bring Android apps to life! Using Java and Kotlin, I design user-friendly interfaces and smooth features that capture users' attention. Whether it's making beautiful designs or connecting powerful backend systems, each line of code I write turns ideas into exciting mobile experiences. Let's work together to explore new possibilities and push the limits of what Android can do!
+Welcome to my creative space where I bring Android apps to life! Using Java and Kotlin, I design user-friendly interfaces and smooth features that capture users' attention. Whether it's making beautiful designs or connecting powerful backend systems. Let's push the limits of what Android can do!
 
 
 
