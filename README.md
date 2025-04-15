@@ -14,7 +14,7 @@ Welcome to my creative space where I bring Android apps to life! Using Java and 
         <img src="https://camo.githubusercontent.com/1ffa337ac42b00eed7c4a0bc64348b84ceb17dafb0baa989e868bf752baa4f74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f6c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="medioum">
     </a>
     <a href="https://stackoverflow.com/users/8643955/vindhya-sharma" target="_blank">
-        <img src="https://camo.githubusercontent.com/3922cfa36bd92ee7138e308a8b478c51bdc58907dcf7cec72f9c4276927122b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="stackoverflow">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" alt="stackoverflow">
     </a>
 </div><br>
 
