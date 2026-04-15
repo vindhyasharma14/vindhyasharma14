@@ -138,10 +138,10 @@ data class Developer(
 
 | App | Domain | Downloads | My Role |
 |-----|---------|-----------|---------|
-| [📚 **KD Live** — EdTech Platform](https://play.google.com/store/apps/details?id=com.kdcampuslive) | EdTech | 500K+ | Sole Android Dev — ExoPlayer DRM, AES Encryption, Live Classes |
-| [🎓 **GS World IAS/PCS**](https://play.google.com/store/apps/details?id=com.gsworldiaspcs) | EdTech | 100K+ | Crashlytics integration, crash-free rate 92% → 99%+ |
+| [📚 **KD Live** — EdTech Platform]([https://play.google.com/store/apps/details?id=com.kdcampuslive](https://play.google.com/store/apps/details?id=app.kdcampus.livestreaming&hl=en_IN)) | EdTech | 500K+ | Sole Android Dev — ExoPlayer DRM, AES Encryption, Live Classes |
+| [🎓 **GS World IAS/PCS**] | EdTech | 100K+ | Crashlytics integration, crash-free rate 92% → 99%+ |
 | [👷 **CILFI HRMS** — Staff GPS Attendance](https://play.google.com/store/apps/details?id=com.cilfi.hrms) | Enterprise | 10K+ | GPS Attendance + Biometric Payroll for 500+ employees |
-| [🌍 **BhooKamp** — Earthquake Monitor](https://play.google.com/store/apps/details?id=in.gov.ncs.bhookamp) | Government | 500K+ | NCS Govt of India — Real-time seismic alerts, FCM <10s latency |
+| [🌍 **BhooKamp** — Earthquake Monitor]([https://play.google.com/store/apps/details?id=in.gov.ncs.bhookamp](https://play.google.com/store/apps/details?id=gov.in.seismo.riseq&hl=en_IN) | Government | 500K+ | NCS Govt of India — Real-time seismic alerts, FCM <10s latency |
 | 🍽️ **NarangCaterers** | Services | — | Full app: wireframe → Play Store in 4 months, solo dev |
 
 </div>
