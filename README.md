@@ -83,21 +83,17 @@ data class Developer(
 ![React Native](https://img.shields.io/badge/React_Native-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo_Bare_Workflow-000020?style=flat-square&logo=expo&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS_Deployment-App_Store-000000?style=flat-square&logo=apple&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🏗️ Architecture & Patterns
 ![MVVM](https://img.shields.io/badge/MVVM-Clean_Architecture-5C2D91?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC-009688?style=flat-square)
-![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-6DB33F?style=flat-square)
 
 ### 🌐 Networking & Backend Integration
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
 ![OkHttp](https://img.shields.io/badge/OkHttp_Interceptors-3E4348?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![Gson](https://img.shields.io/badge/Gson-4285F4?style=flat-square)
-![Volley](https://img.shields.io/badge/Volley-FF6F00?style=flat-square)
+
 
 ### 🎬 Media & Streaming
 ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-DRM_HLS_DASH-FF0000?style=flat-square&logo=youtube&logoColor=white)
@@ -108,7 +104,6 @@ data class Developer(
 ![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-008000?style=flat-square&logo=letsencrypt&logoColor=white)
 ![AES Encryption](https://img.shields.io/badge/AES_/_SHA_Encryption-DC143C?style=flat-square)
 ![ProGuard](https://img.shields.io/badge/ProGuard_/_R8-FF6347?style=flat-square)
-![Certificate Transparency](https://img.shields.io/badge/Certificate_Transparency-2E8B57?style=flat-square)
 
 ### 🗃️ Database & Storage
 ![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square&logo=android&logoColor=white)
@@ -124,7 +119,6 @@ data class Developer(
 ![Crashlytics](https://img.shields.io/badge/Crashlytics-FF6D00?style=flat-square&logo=firebase&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Remote Config](https://img.shields.io/badge/Remote_Config-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### 🔌 Integrations
 ![Google Maps](https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
@@ -134,7 +128,6 @@ data class Developer(
 ### 🛠️ Tools & DevOps
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Learning-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
