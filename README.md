@@ -129,9 +129,7 @@ data class Developer(
 ### 🔌 Integrations
 ![Google Maps](https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay_Payment-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![Deep Linking](https://img.shields.io/badge/Deep_Linking_/_Dynamic_Links-FF6F00?style=flat-square)
-![Glide](https://img.shields.io/badge/Glide-2196F3?style=flat-square)
-![Lottie](https://img.shields.io/badge/Lottie_Animations-00C8FF?style=flat-square)
+
 
 ### 🛠️ Tools & DevOps
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -223,7 +221,6 @@ Service company only     →    Govt (NCS), Enterprise, EdTech, Startup
 
 **"I don't just build apps. I build apps that go live, scale to millions, and stay secure."**
 
-📧 vindhya.mnnit2017@gmail.com &nbsp;|&nbsp; 📞 +91-8948316798 &nbsp;|&nbsp; 📍 Gorakhpur (Open to Remote)
 
 <br/>
 
