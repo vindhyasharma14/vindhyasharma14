@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Vindhya%20Sharma&amp;fontSize=48&amp;fontAlignY=32&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Senior%20Android%20%26%20React%20Native%20Engineer&amp;descSize=20&amp;descAlignY=55&amp;descColor=A0C4FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vindhya%20Sharma&fontSize=48&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Senior%20Android%20%26%20React%20Native%20Engineer&descSize=20&descAlignY=55&descColor=A0C4FF" width="100%" />
+
+### 👋 Hi there! I'm Vindhya — a Senior Android & React Native Engineer with 8.5+ years of building mobile apps that actually ship, scale, and stay secure.
 
 <br/>
 
@@ -8,24 +10,22 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&color=3DAEF7&style=flat-square&label=Profile+Views)
+
 <p>
   <a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vindhya.mnnit2017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/8643955/vindhya-sharma" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   <a href="https://github.com/vindhyasharma14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&amp;color=3DAEF7&amp;style=flat-square&amp;label=Profile+Views)
 
 </div>
 
@@ -35,14 +35,14 @@
 
 ```kotlin
 data class Developer(
-    val name: String           = "Vindhya Sharma",
-    val role: String           = "Senior Android & React Native Engineer",
-    val location: String       = "Gorakhpur, India 🇮🇳  |  Open to Remote 🌍",
-    val education: String      = "MCA — NIT Allahabad (MNNIT) 🎓",
-    val experience: String     = "8.5+ Years",
+    val name: String            = "Vindhya Sharma",
+    val role: String            = "Senior Android & React Native Engineer",
+    val location: String        = "Gorakhpur, India 🇮🇳  |  Open to Remote 🌍",
+    val education: String       = "MCA — NIT Allahabad (MNNIT) 🎓",
+    val experience: String      = "8.5+ Years",
     val platforms: List<String> = listOf("Android (Native)", "iOS (React Native Expo Bare)"),
-    val liveApps: Int          = 8,   // 5 Android + 3 iOS
-    val totalDownloads: String = "1M+ on Play Store",
+    val liveApps: Int           = 8,   // 5 Android + 3 iOS
+    val totalDownloads: String  = "1M+ on Play Store",
     val specialities: List<String> = listOf(
         "ExoPlayer DRM + HLS/DASH Media Streaming",
         "Enterprise Security — AES-256, SSL Pinning, ProGuard/R8",
@@ -76,73 +76,80 @@ data class Developer(
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ When I build mobile apps, I rely on
 
-### 📱 Android Development
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-Expert-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Learning-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+<h4>📱 Android & Cross-Platform</h4>
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="Android SDK" src="https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img alt="Expo Bare" src="https://img.shields.io/badge/-Expo_Bare_Workflow-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+</p>
 
-### 🍎 Cross-Platform / iOS
-![React Native](https://img.shields.io/badge/React_Native-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo_Bare_Workflow-000020?style=flat-square&logo=expo&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-App_Store_Deployed-000000?style=flat-square&logo=apple&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<h4>🏗️ Architecture & DI</h4>
+<p>
+  <img alt="MVVM" src="https://img.shields.io/badge/-MVVM_Clean_Architecture-5C2D91?style=flat-square"/>
+  <img alt="Hilt" src="https://img.shields.io/badge/-Hilt_/_Dagger-FF6F00?style=flat-square"/>
+  <img alt="Repository Pattern" src="https://img.shields.io/badge/-Repository_Pattern-607D8B?style=flat-square"/>
+</p>
 
-### 🏗️ Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-Clean_Architecture-5C2D91?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-009688?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-607D8B?style=flat-square)
-![Dependency Injection](https://img.shields.io/badge/Hilt_/_Dagger-FF6F00?style=flat-square)
+<h4>🌐 Networking</h4>
+<p>
+  <img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-48B983?style=flat-square"/>
+  <img alt="OkHttp" src="https://img.shields.io/badge/-OkHttp_Interceptors-3E4348?style=flat-square"/>
+  <img alt="REST" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+</p>
 
-### 🌐 Networking & Backend Integration
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![OkHttp](https://img.shields.io/badge/OkHttp_Interceptors-3E4348?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<h4>🎬 Media Streaming</h4>
+<p>
+  <img alt="ExoPlayer" src="https://img.shields.io/badge/-ExoPlayer_DRM_%7C_HLS_%7C_DASH-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  <img alt="YouTube Player" src="https://img.shields.io/badge/-YouTube_Player_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  <img alt="Vimeo" src="https://img.shields.io/badge/-Vimeo_Player-1AB7EA?style=flat-square&logo=vimeo&logoColor=white"/>
+</p>
 
-### 🎬 Media & Streaming
-![ExoPlayer](https://img.shields.io/badge/ExoPlayer-DRM_%7C_HLS_%7C_DASH-FF0000?style=flat-square&logo=youtube&logoColor=white)
-![YouTube Player](https://img.shields.io/badge/YouTube_Player_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
-![Vimeo](https://img.shields.io/badge/Vimeo_Player-1AB7EA?style=flat-square&logo=vimeo&logoColor=white)
+<h4>🔒 Security</h4>
+<p>
+  <img alt="SSL Pinning" src="https://img.shields.io/badge/-SSL_Pinning-008000?style=flat-square&logo=letsencrypt&logoColor=white"/>
+  <img alt="AES-256" src="https://img.shields.io/badge/-AES_256_%7C_SHA-DC143C?style=flat-square"/>
+  <img alt="ProGuard" src="https://img.shields.io/badge/-ProGuard_%7C_R8-FF6347?style=flat-square"/>
+  <img alt="Root Detection" src="https://img.shields.io/badge/-Root_%26_Tamper_Detection-8B0000?style=flat-square"/>
+</p>
 
-### 🔒 Security
-![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-008000?style=flat-square&logo=letsencrypt&logoColor=white)
-![AES Encryption](https://img.shields.io/badge/AES_256_%7C_SHA-DC143C?style=flat-square)
-![ProGuard](https://img.shields.io/badge/ProGuard_%7C_R8-FF6347?style=flat-square)
-![Root Detection](https://img.shields.io/badge/Root_%26_Tamper_Detection-8B0000?style=flat-square)
+<h4>🗃️ Database & Async</h4>
+<p>
+  <img alt="Room" src="https://img.shields.io/badge/-Room_DB-4285F4?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img alt="DataStore" src="https://img.shields.io/badge/-Jetpack_DataStore-4285F4?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="Coroutines" src="https://img.shields.io/badge/-Kotlin_Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="Flow" src="https://img.shields.io/badge/-Kotlin_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="LiveData" src="https://img.shields.io/badge/-LiveData_%7C_ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img alt="RxJava" src="https://img.shields.io/badge/-RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+</p>
 
-### 🗃️ Database & Storage
-![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-34A853?style=flat-square)
-![DataStore](https://img.shields.io/badge/Jetpack_DataStore-4285F4?style=flat-square&logo=android&logoColor=white)
+<h4>🔥 Firebase & 3rd Party</h4>
+<p>
+  <img alt="Crashlytics" src="https://img.shields.io/badge/-Crashlytics-FF6D00?style=flat-square&logo=firebase&logoColor=white"/>
+  <img alt="FCM" src="https://img.shields.io/badge/-FCM_Push-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img alt="Analytics" src="https://img.shields.io/badge/-Firebase_Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img alt="Remote Config" src="https://img.shields.io/badge/-Remote_Config-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img alt="Google Maps" src="https://img.shields.io/badge/-Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img alt="Razorpay" src="https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+  <img alt="Glide" src="https://img.shields.io/badge/-Glide_%7C_Picasso-18BFFF?style=flat-square"/>
+  <img alt="Lottie" src="https://img.shields.io/badge/-Lottie_Animations-00DDB3?style=flat-square"/>
+</p>
 
-### ⚡ Async & Reactive
-![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Kotlin_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![LiveData](https://img.shields.io/badge/LiveData_%7C_ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-### 🔥 Firebase
-![Crashlytics](https://img.shields.io/badge/Crashlytics-FF6D00?style=flat-square&logo=firebase&logoColor=white)
-![FCM](https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Analytics](https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Remote Config](https://img.shields.io/badge/Remote_Config-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### 🔌 Third-Party Integrations
-![Google Maps](https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay_Payment-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![Glide](https://img.shields.io/badge/Glide_%7C_Picasso-18BFFF?style=flat-square)
-![Lottie](https://img.shields.io/badge/Lottie_Animations-00DDB3?style=flat-square)
-
-### 🛠️ Tools & DevOps
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<h4>🛠️ Tools & DevOps</h4>
+<p>
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
@@ -155,7 +162,7 @@ data class Developer(
 | [📚 **KD Live** — EdTech Platform](https://play.google.com/store/apps/details?id=app.kdcampus.livestreaming&hl=en_IN) | EdTech | **500K+** | Sole Android Dev · ExoPlayer DRM · AES-256 · Live Classes |
 | 🎓 **GS World IAS/PCS** | EdTech | **100K+** | Crashlytics integration · Crash-free rate: 92% → 99%+ |
 | [👷 **CILFI HRMS** — Staff GPS Attendance](https://play.google.com/store/apps/details?id=com.cilfi.hrms) | Enterprise | **10K+** | GPS Attendance · Biometric Payroll · 500+ employees |
-| [🌍 **BhooKamp** — Earthquake Monitor](https://play.google.com/store/apps/details?id=gov.in.seismo.riseq&hl=en_IN) | Government | **500K+** | NCS · Govt of India · Real-time seismic alerts · FCM &lt;10s |
+| [🌍 **BhooKamp** — Earthquake Monitor](https://play.google.com/store/apps/details?id=gov.in.seismo.riseq&hl=en_IN) | Government | **500K+** | NCS · Govt of India · Real-time seismic alerts · FCM <10s |
 | 🍽️ **NarangCaterers** | Services | — | Wireframe → Play Store in 4 months · Solo full-stack dev |
 
 </div>
@@ -215,23 +222,6 @@ An interactive Android app that helps developers master Kotlin through live oper
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vindhyasharma14&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vindhyasharma14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📈 Currently Levelling Up
 
 | Skill | Focus Area | Status |
@@ -240,6 +230,23 @@ An interactive Android app that helps developers master Kotlin through live oper
 | 🔗 **Kotlin Multiplatform (KMP)** | Shared business logic for Android + iOS | 🔄 In Progress |
 | ⚙️ **GitHub Actions CI/CD** | Automating build, test & Play Store deploy | 🔄 In Progress |
 | 🧪 **Unit Testing** | JUnit5 · Mockito · Turbine (Flow testing) | 🔄 In Progress |
+
+---
+
+## 📈 My GitHub Contributions Summary
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vindhyasharma14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3DAEF7&icon_color=3DAEF7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vindhyasharma14&theme=tokyonight&hide_border=true&ring=3DAEF7&fire=3DAEF7&currStreakLabel=3DAEF7)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -264,15 +271,15 @@ An interactive Android app that helps developers master Kotlin through live oper
 <br/>
 
 <a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:vindhya.mnnit2017@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
