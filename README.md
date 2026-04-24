@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vindhya%20Sharma&fontSize=48&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Senior%20Android%20%26%20React%20Native%20Engineer&descSize=20&descAlignY=55&descColor=A0C4FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Vindhya%20Sharma&amp;fontSize=48&amp;fontAlignY=32&amp;animation=twinkling&amp;fontColor=fff&amp;desc=Senior%20Android%20%26%20React%20Native%20Engineer&amp;descSize=20&amp;descAlignY=55&amp;descColor=A0C4FF" width="100%" />
 
 <br/>
 
@@ -10,22 +10,22 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:vindhya.mnnit2017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/8643955/vindhya-sharma" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/vindhyasharma14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&color=3DAEF7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&amp;color=3DAEF7&amp;style=flat-square&amp;label=Profile+Views)
 
 </div>
 
@@ -219,8 +219,8 @@ An interactive Android app that helps developers master Kotlin through live oper
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vindhyasharma14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vindhyasharma14&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </div>
 
@@ -264,15 +264,15 @@ An interactive Android app that helps developers master Kotlin through live oper
 <br/>
 
 <a href="https://www.linkedin.com/in/vindhya-sharma-0a8a12b4/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:vindhya.mnnit2017@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
 
 </div>
