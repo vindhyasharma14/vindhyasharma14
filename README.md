@@ -25,7 +25,7 @@
 <!-- Stats Banner -->
 <div align="center">
 
-| 🗓️ Experience | 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
+📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
 |:---:|:---:|:---:|:---:|
  **7 Apps** | **1M+ Downloads** | **99%+** |
 
