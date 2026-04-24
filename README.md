@@ -27,7 +27,7 @@
 
 | 🗓️ Experience | 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
 |:---:|:---:|:---:|:---:|
-| **8.5+ Years** | **7 Apps** | **1M+ Downloads** | **99%+** |
+ **7 Apps** | **1M+ Downloads** | **99%+** |
 
 </div>
 
