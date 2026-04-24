@@ -129,6 +129,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&layout=compact&langs_count=8&bg_color=151515&title_color=3DAEF7&text_color=9e9e9e&hide_border=true)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</div>
+
