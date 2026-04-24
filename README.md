@@ -1,10 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-# Vindhya Sharma 
+# Vindhya Sharma
 
-
-### 👩‍💻 Android & React Native Developer 
+### 👩‍💻 Android & React Native Developer · 8.5+ Years
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&color=3DAEF7&style=flat-square&label=Profile+Views)
 &nbsp;
@@ -25,9 +24,9 @@
 <!-- Stats Banner -->
 <div align="center">
 
-|📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
+| 🗓️ Experience | 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
 |:---:|:---:|:---:|:---:|
- **7 Apps** | **1M+ Downloads** | **99%+** |
+| **8.5+ Years** | **7 Apps** | **1M+ Downloads** | **99%+** |
 
 </div>
 
