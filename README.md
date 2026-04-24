@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vindhya%20Sharma&fontSize=48&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Senior%20Android%20%26%20React%20Native%20Engineer&descSize=20&descAlignY=55&descColor=A0C4FF" width="100%" />
-
-</div>
 
 ### 👋 Hi there, I'm Vindhya Sharma!
 
