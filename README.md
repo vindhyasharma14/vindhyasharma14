@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# 👩‍💻Vindhya Sharma 
+# Vindhya Sharma 
 
 
 ### 👩‍💻 Android & React Native Developer 
