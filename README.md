@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-
+  
 # Vindhya Sharma
 
 ### 👩‍💻 Android & React Native Developer · 8.5+ Years
@@ -24,9 +24,9 @@
 <!-- Stats Banner -->
 <div align="center">
 
-|  📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
+| 🗓️ Experience | 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
 |:---:|:---:|:---:|:---:|
-|  **7 Apps** | **1M+ Downloads** | **99%+** |
+| **8.5+ Years** | **7 Apps** | **1M+ Downloads** | **99%+** |
 
 </div>
 
