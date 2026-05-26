@@ -3,7 +3,7 @@
   
 # Vindhya Sharma
 
-### 👩‍💻 Android & React Native Developer · 8.5+ Years
+### 👩‍💻 Android & React Native Developer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&color=3DAEF7&style=flat-square&label=Profile+Views)
 &nbsp;
