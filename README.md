@@ -1,9 +1,6 @@
-<!-- Header -->
-<div align="center">
-  
 # Vindhya Sharma
 
-### 👩‍💻 Android & React Native Developer 
+### 👩‍💻 Android & React Native Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vindhyasharma14&color=3DAEF7&style=flat-square&label=Profile+Views)
 &nbsp;
@@ -17,25 +14,20 @@
 
 📍 **Gorakhpur, India** &nbsp;·&nbsp; 🌍 **Open to Remote** &nbsp;·&nbsp; 🎓 **MCA — NIT Allahabad (MNNIT)**
 
-</div>
+---
+
+## 📊 Stats
+
+| 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
+|:---:|:---:|:---:|
+| **7+ Apps** | **1M+ Downloads** | **99%+** |
 
 ---
 
-<!-- Stats Banner -->
-<div align="center">
-
-|  | 📱 Live Apps | 📦 Total Downloads | 💯 Crash-Free Rate |
-||:---:|:---:|:---:|
-|  | **7+ Apps** | **1M+ Downloads** | **99%+** |
-
-</div>
-
----
-
-<!-- Android Skills -->
 ## 🤖 Android Skills
 
 ### Core Android
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -44,17 +36,20 @@
 ![Hilt](https://img.shields.io/badge/Hilt%20%2F%20Dagger-FF6F00?style=flat-square&logo=android&logoColor=white)
 
 ### Async & Reactive
+
 ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Kotlin Flow](https://img.shields.io/badge/Kotlin%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![LiveData](https://img.shields.io/badge/LiveData%20%7C%20ViewModel-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
 ### Local Storage
+
 ![Room DB](https://img.shields.io/badge/Room%20DB-4285F4?style=flat-square&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Jetpack DataStore](https://img.shields.io/badge/Jetpack%20DataStore-4285F4?style=flat-square&logo=android&logoColor=white)
 
 ### Media & UI
+
 ![ExoPlayer](https://img.shields.io/badge/ExoPlayer%20DRM%20%7C%20HLS%20%7C%20DASH-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![Glide](https://img.shields.io/badge/Glide%20%7C%20Picasso-18BFFF?style=flat-square&logo=android&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie%20Animations-00DDB3?style=flat-square&logo=airbnb&logoColor=white)
@@ -62,12 +57,14 @@
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 ### 🔐 Security
+
 ![AES-256](https://img.shields.io/badge/AES--256%20%7C%20SHA-DC143C?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 ![SSL Pinning](https://img.shields.io/badge/SSL%20Pinning-008000?style=flat-square&logo=letsencrypt&logoColor=white)
 ![ProGuard](https://img.shields.io/badge/ProGuard%20%7C%20R8-FF6347?style=flat-square&logo=android&logoColor=white)
 ![Root Detection](https://img.shields.io/badge/Root%20%26%20Tamper%20Detection-8B0000?style=flat-square&logo=android&logoColor=white)
 
 ### 🔥 Firebase & Analytics
+
 ![Crashlytics](https://img.shields.io/badge/Firebase%20Crashlytics-FF6D00?style=flat-square&logo=firebase&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM%20Push%20Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -75,7 +72,6 @@
 
 ---
 
-<!-- React Native Skills -->
 ## ⚛️ React Native Skills
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -88,7 +84,6 @@
 
 ---
 
-<!-- Backend & API Skills -->
 ## 🔗 Backend & API Skills
 
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=android&logoColor=white)
@@ -99,7 +94,6 @@
 
 ---
 
-<!-- DevOps & Tooling -->
 ## ⚙️ DevOps & Tooling
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -109,7 +103,6 @@
 
 ---
 
-<!-- Live Apps -->
 ## 📱 My Live Apps on the Stores
 
 | App | Platform | Category | Highlights |
@@ -124,7 +117,6 @@
 
 ---
 
-<!-- Open Source -->
 ## 🚀 Featured Open Source Project
 
 [![SmartCalc](https://img.shields.io/badge/🧮%20SmartCalc-Kotlin%20Learning%20Tool-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/vindhyasharma14/smartcalc-kotlin)
@@ -133,7 +125,6 @@
 
 ---
 
-<!-- Currently levelling up -->
 ## 📈 Currently Levelling Up
 
 | Skill | Focus |
@@ -145,7 +136,6 @@
 
 ---
 
-<!-- Open for -->
 ## 🤝 Open For
 
 | Type | Details |
@@ -157,10 +147,7 @@
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Contributions
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vindhyasharma14&theme=dark&ring=3DAEF7&fire=3DAEF7&currStreakNum=3DAEF7&currStreakLabel=3DAEF7&hide_border=true&background=0d0f14&sideLabels=9e9e9e&dates=9e9e9e)](https://git.io/streak-stats)
 
@@ -168,12 +155,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vindhyasharma14&layout=compact&langs_count=8&bg_color=0d0f14&title_color=3DAEF7&text_color=9e9e9e&hide_border=true)
 
-</div>
-
 ---
 
-<div align="center">
-
 *I don't just build apps. I build apps that go live, scale to millions, and stay secure.* 🚀
-
-</div>
